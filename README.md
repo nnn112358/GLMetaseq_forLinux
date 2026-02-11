@@ -85,7 +85,11 @@ make
 いずれもLinux互換性のためのバグ修正であり、ライブラリの機能・APIに変更はありません。
 
 ## ライセンス
+GLMetaseq ライブラリ部分は MIT License です。
+https://kougaku-navi.net/ARToolKit/  
+Copyright (c) 2009 Sunao Hashimoto and Keisuke Konishi
 
-GLMetaseq ライブラリ部分は MIT License (Copyright (c) 2009 Sunao Hashimoto and Keisuke Konishi) です。MIT License の条件に基づき、上記のバグ修正を含む改変を行っています。詳細は `GLMetaseq.h` および `LICENCE.txt` を参照してください。
+MIT License の条件に基づき、上記のバグ修正を含む改変を行っています。
+
 
 
