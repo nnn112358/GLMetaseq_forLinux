@@ -1,4 +1,4 @@
-# sample_GL - MQOモデルビューア
+# GLMetaseq for Linux
 
 Metasequoia (.mqo) 形式の3DモデルをOpenGLで読み込み・表示するサンプルプログラムです。
 
@@ -87,4 +87,5 @@ make
 ## ライセンス
 
 GLMetaseq ライブラリ部分は MIT License (Copyright (c) 2009 Sunao Hashimoto and Keisuke Konishi) です。MIT License の条件に基づき、上記のバグ修正を含む改変を行っています。詳細は `GLMetaseq.h` および `LICENCE.txt` を参照してください。
+
 
